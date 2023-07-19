@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
- ![Snake animation](https://github.com/jorgedevweb/jorgedevweb/edit/main/README.md)
+ ![Snake animation](https://github.com/jorgedevweb/jorgedevweb/blob/output/github-contribution-grid-snake.svg)
 
 
           
