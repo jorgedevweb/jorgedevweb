@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
  <a href="https://github.com/jorgedevweb/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jorgedevweb/github-readme-stats" />
           
                   
           
