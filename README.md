@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 <img width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
- <a href="https://github.com/jorgedevweb/github-readme-stats/graphs/contributors">
+ <a href="https://github.com/jorgedevweb/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jorgedevweb/github-readme-stats" />
           
                   
