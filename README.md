@@ -28,7 +28,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 </div>
 
   
-![Snake animation](https://github.com/jorgedevweb/jorgedevweb/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 
           
